@@ -2,7 +2,11 @@
   "name": "project-x",
   "version": "1.0.0",
   "description": "Sadig Latifli FS_1",
-  "main": "index.js",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sadig05/abb_hw1.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
